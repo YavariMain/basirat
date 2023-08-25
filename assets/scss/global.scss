@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "IRANYekan";
+  src: local("IRANYekan"),
+    url(~/assets/fonts/iranyekan/IRANYekanLightFaNum.ttf) format("truetype");
+}
+
+$yellow-color: #ffab00;
+
+html {
+  scroll-behavior: smooth;
+  &.dark {
+    body {
+      background: rgba(24, 24, 27, 1);
+    }
+  }
+}
+
+body {
+  font-family: IRANYekan !important;
+  &::-webkit-scrollbar-track
+  {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 3px;
+    background-color: #000000;
+  }
+  &::-webkit-scrollbar
+  {
+    width: 12px;
+    background-color: #000000;
+  }
+  &::-webkit-scrollbar-thumb
+  {
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: $yellow-color;
+  }
+}
+
+.bg-yellow {
+  background: $yellow-color !important;
+}
+.yellow {
+  color: $yellow-color !important;
+}
+.border-yellow {
+  border: solid 1px $yellow-color !important;
+}
+.border-bottom-yellow {
+  border-bottom: solid 2px $yellow-color !important;
+}
+
+// line limit
+$clamp: 1;
+@while $clamp < 50 {
+  .text-limit-#{$clamp} {
+    display: -webkit-box !important;
+    -webkit-line-clamp: (1 * $clamp);
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    overflow: hidden;
+  }
+  $clamp: $clamp + 1;
+}
+
+// TRANSATIONS
+/* page transition */
+.page-enter-active,
+.page-leave-active {
+  transition-duration: 0.1s;
+  transition: transform opacity !important;
+}
+
+.page-enter,
+.page-leave-to {
+  transform: scale(0.98) translateY(10px);
+  opacity: 0;
+}

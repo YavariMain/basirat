@@ -1,0 +1,410 @@
+{
+  "nav": {
+    "info": "Information",
+    "about": "About",
+    "policy": "Policy",
+    "laboratory": "Laboratory",
+    "certificates": "Certificates",
+    "representatives": "Representatives",
+    "products": "Products",
+    "car": "Car",
+    "heavy_vehicle": "Heavy vehicle",
+    "motorcycle": "Motorcycle",
+    "VRLA": "Backup battery",
+    "starter_battery": "Starter battery",
+    "contact_en": "Contact",
+    "technology": "Technology",
+    "installation_guide": "Installation guide"
+  },
+  "main_page": {
+    "brands": {
+      "title": "Products of Khorasan Nirogostran Factories Group",
+      "p1": "Types of batteries suitable for domestic and foreign cars",
+      "p2": "This company was the first manufacturer of calcium shielded batteries in Iran and currently, with the production of about 500,000 batteries per year, it is the main supplier of batteries required by Iran Khodro Company. At the same time, the products of this company with the brands TURBO, VOLGA, VOLTA, SHARK, CENE, UNIKOR and SILVER are distributed through sales agents all over the country."
+    },
+    "products": {
+      "car": [
+        "Car",
+        "Batteries produced by Khorasan Nirogostaran group of factories for cars"
+      ],
+      "heavy_vehicle": [
+        "Heavy vehicle",
+        "Batteries produced by Nirogostaran Khorasan group of factories for heavy vehicles"
+      ],
+      "motorcycle": [
+        "Motorcycle",
+        "Batteries produced by Nirogostaran Khorasan group of factories for motorcycle"
+      ],
+      "VRLA": [
+        "Backup battery",
+        "Batteries produced by Nirogostaran Khorasan group of factories for VRLA"
+      ],
+      "see_more": "see more"
+    },
+    "swiper_slider": "Quality is not accidental",
+    "battery_details": {
+      "title": "Battery components",
+      "more": "more..."
+    },
+    "admin_speech": {
+      "title": "To all customers and sellers:",
+      "desc": "Our vision as a professional company is bright, as we have a flexible and balanced business portfolio with strong capacities and a good position among the growing global markets. We hope to make a better world every day and we cherish and take care of our main assets which are our customers and business partners. Our belief is based on benevolence and personal benefit for ourselves and others so that we can build a better world with the principle of customer orientation and fulfill our commitments to the consumers of products and the environment, a world full of light and satisfaction. . We look forward to customers who think fast and are still accurate."
+    },
+    "automobile_customers": "Automobile customers",
+    "counter": {
+      "prouducts": "Prouducts",
+      "agent": "Agent",
+      "personnel": "Personnel",
+      "certification": "Certification"
+    },
+    "contact_us": {
+      "title": "Contact us",
+      "desc": "Communication ways of Nirogostaran Khorasan Factories Group",
+      "address": {
+        "title": "Our address",
+        "desc": "Factory: Khorasan Razavi - Mashhad - 17 km of Kalat Road",
+        "btn": "Communication routes"
+      },
+      "contacts": {
+        "title": "Contacts",
+        "btn": "Send Message"
+      },
+      "after_sales_service": {
+        "title": "After sales service",
+        "btn": "Send ticket"
+      }
+    }
+  },
+  "about_page": {
+    "title": "About us",
+    "p1": "Khorasan Nirogostran Group of Factories started working in 2010 with the participation of Khorasan Industries Rehia Company in the amount of 70% and Iran Khodro Investment Expansion Company in the amount of 30% with the aim of producing car starter batteries in order to meet the needs of Iran Khodro and the spare parts market. In the month of 2015, the shares of Ahya Khorasan and Iran Khodro were bought by Mr. Mohammad Reza Fallah Ziyarani. This company is the first manufacturer of calcium shielded batteries in Iran and currently it is the main supplier of batteries needed by Iran Khodro company with the production of about 80 million amp hours of starting, storage, industrial and backup batteries per year. At the same time, the products of this company with Silver, Turbo, Shark, Cene, Volga, Volta brands are distributed nationwide through sales representatives.",
+    "p2": "This company, having about 17 years of experience in the battery industry, has about 250 employees, and with experienced workers, it is moving rapidly in the direction of quantitative and qualitative development of products in order to gain a worthy position in the industry."
+  },
+  "policy_page": {
+    "title": "Quality Policy",
+    "subject": "Khorasan Nirogostran Factories Group aims to become a leading supplier in the field of producing all kinds of car starter batteries in the country.",
+    "bold": "Increasing product quality and offering reasonable prices ",
+    "p1": "Increasing the quality of the product and providing the right price, this company with about 20 years of experience in the battery industry has about 250 personnel and with the experienced forces, it is moving rapidly in the direction of quantitative and qualitative development of the products in order to gain a worthy position in the industry.",
+    "p2": "In this regard, the organization tries to achieve its goals by establishing the requirements of the quality management standard of the automotive industry (IATF 2016:16949) and the specific requirements of customers, and for this purpose, while identifying risks and opportunities and reacting appropriately to them. has focused on the following in all processes and activities:",
+    "p3": "The senior management of the organization considers itself committed to meeting the requirements of the quality management system and continuous improvement, and to ensure the understanding of the quality policy in the organization and to review it annually for its permanent compatibility with the needs of the organization.",
+    "admin": "CEO - Vahid Farhadi",
+    "li1": "Moving towards increasing the satisfaction of customers and other stakeholders and expanding and developing effective communication and interactions with all stakeholders and complying with legal requirements.",
+    "li2": "continuous improvement of the effectiveness and efficiency of the activities and processes of the quality management system;",
+    "li3": "Efforts to increase the level of product quality until reaching zero defects",
+    "li4": "Empowering employees through the growth and promotion of their awareness and skills by using effective training and using motivational systems;",
+    "li5": "Paying attention to the safety of employees, products and processes and creating a suitable working environment in line with the implementation of the organization's activities;",
+    "li6": "Increasing employee participation by developing teamwork culture;",
+    "li7": "Increasing the productivity of production resources to reduce costs.",
+    "li8": "Continuous identification of organizational knowledge and its application.",
+    "li9": "Preservation of records: The control of records related to legal and regulatory and organizational and customer requirements is required in the company and they must be properly identified, retrieved, maintained, determined and disposed of, managed and protected so that when necessary be used"
+  },
+  "laboratory_page": {
+    "title": "Laboratory",
+    "p1": "The laboratory of Khorasan Nirogostaran Industries Group was established in 2000 to conduct tests related to lead-acid batteries using national and international test methods.",
+    "p2": "With the aim of increasing the level of satisfaction of its customers, by creating continuous improvement in quality laboratory services, this laboratory has put the following principles at the forefront of its performance:",
+    "p3": "In order to achieve these things, the laboratory of Khorasan Nirogostaran Group of Factories developed its quality management system based on the standard",
+    "p4": "designed and the senior manager and all employees of this laboratory consider themselves bound and committed to provide the necessary resources and facilities to achieve the goals, meet the requirements of this standard, and also improve and develop the activities of the laboratory.",
+    "li1": "Providing quality and desirable services to customers, using the latest scientific and experimental methods and achievements",
+    "li2": "Developing the range of activities related to tests, by conducting studies, expanding and purchasing equipment",
+    "li3": "Efforts to increase the level of product quality until reaching zero defects",
+    "li4": "Creating motivation, improving the skill level and efficiency of employees through systematic, planned and continuous trainings."
+  },
+  "starter_battery_page": {
+    "AGM": {
+      "tab": "فناوری AGM",
+      "main_title": "Absorbent Glass Mat Battery (AGM) Technology",
+      "main_paragraph": "Nirugostaran AGM technology provides the best values for Start-Stop vehicles, as well as premium vehicles with increase electrical loads. Through the special AGM design, AGM batteries are premium concept batteries that feature up to 4x longer battery cycle life, faster charging, 100% leak and spill proof and more.",
+      "core_technology_subject": "Core Technology",
+      "core_technology_attr1": "X-FRAME plus",
+      "core_technology_attr2": "Carbon Plus",
+      "core_technology_attr3": "Ultra Micro Fiber",
+      "advantages_subject": "Advantages",
+      "advantages_attr1": "4x longer idling stop life cycle",
+      "advantages_attr2": "150% increase in charge acceptance",
+      "advantages_attr3": "Starting power up 130%",
+      "advantages_attr4": "Optimal safety for passenger",
+      "item1": [
+        "AGM Advanced",
+        "X-FRAME plus Technology",
+        "MAXIMIZED POWER & ENHANCED STABILITY",
+        "The enhanced X-FRAME technology provides stable and reliable performance even under deep discharge",
+        "Non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Ultricies integer quis auctor elit sed vulputate. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Consectetur purus ut faucibus pulvinar elementum integer. Nunc non blandit massa enim nec. Et tortor consequat id porta nibh venenatis.",
+        "Learn more"
+      ],
+      "item2": [
+        "The Advanced Grid Structure for Long Life",
+        "Full framed grid design prevents grid growth and shorts from exposed wire The latest production processes from continuous and high precision punching process ensures robust structure and excellent adhesion of the active mass paste",
+        "The Advanced Grid Design for Extra Power",
+        "Built for maximum current flow, the advanced grid design enables faster recharge acceptance and optimal conductivity The design ensures there is more lead where electrical current is the greatest",
+        "Eco-Friendly",
+        "Eco-Friendly production process reduces airborne contaminates creating a healthier environment"
+      ],
+      "item3": [
+        "AGM Dynamic Charging Control",
+        "Carbon Black Technology",
+        "The carbon black technology enables faster charging and supports vehicles with the latest charging control functionsEco-Friendly production process reduces airborne contaminates creating a healthier environment"
+      ],
+      "item4": [
+        "AGM Cycle Proofing Design",
+        "Advanced Tetrabasic Lead Sulfate",
+        "Homogeneous 4BS-particle structure with improved battery aging and formation technology are integrated for the frequent deep discharge in Start-Stop vehicles"
+      ]
+    },
+    "EFB": {
+      "tab": "فناوری EFB",
+      "main_title": "Latest Performance Enhancing Battery Technology (Enhanced Flooded Battery Technology)",
+      "main_paragraph": "EFB battery with the Enhanced Flooded Battery Technology provides the best performance for popular start-stop cars as well as other passenger cars. The enhanced plate technology as well as cutting-edge material are added to enhance the deep discharge and fast charging functions, contributing to improved mileage of your car.",
+      "item1": [
+        "Advanced X-Frame plus Technology",
+        "Thicker Grid X-Frame",
+        "With the enhanced X-Frame technology, it provides stable functions even in deep discharge."
+      ],
+      "item2": [
+        "Dynamic Charging Control Technology",
+        "Carbon Black Additive",
+        "The latest carbon technology allows fast charging and provides compatibility for cars with latest charging-control function."
+      ],
+      "item3": [
+        "Cycle Proof Design",
+        "Advanced Tetrabasic Lead Sulfate",
+        "Homogeneous 4BS-particle structure with battery aging and formation technologies are applied for the frequent deep discharge of start-stop cars."
+      ]
+    },
+    "SLA": {
+      "tab": "فناوری SLA",
+      "main_title": "Sealed Maintenance Free Battery (SMF) Technology",
+      "main_paragraph": "BX Battery with the Advanced Maintenance Free Technology features a dynamic driving in any climatic condition of all four seasons. It is a standard battery with stable capacity, quick recharge, vibration resistance, and powerful starting performance optimized for passenger cars and other driving conditions.",
+      "core_technology_subject": "Core Technology",
+      "core_technology_attr1": "X-FRAME plus",
+      "core_technology_attr2": "Sealed Double Lid",
+      "core_technology_attr3": "Non-Woven Tissue",
+      "advantages_subject": "Advantages",
+      "advantages_attr1": "Reliable starting power with X-FRAME Technology",
+      "advantages_attr2": "High Durability Technology delivers longer service life",
+      "advantages_attr3": "Complete product line offering for 99% of vehicles in the market",
+      "advantages_attr4": "Optimal safety for passenger",
+      "item1": [
+        "SMF X-FRAME plus",
+        "The Advanced Grid Structure for Long Life",
+        "Full framed positive grid design prevents grid growth and shorts from exposed wire The latest production processes from continuous and high precision punching process ensures excellent adhesion of the active mass paste",
+        "The Advanced Grid Design for Extra Power",
+        "Built for maximum current flow, the advanced grid design enables faster recharge acceptance and optimal conductivity",
+        "Eco-Friendly",
+        "Eco-Friendly production process reduces airborne contaminates creating a healthier environment"
+      ],
+      "item2": [
+        "SMF Advanced Long Life",
+        "Control Technology",
+        "PET Tissue",
+        "(Microscope images of 500x magnified surface of the tissue)",
+        "High Durability and acid-resistant polyester pulp tissue prevents loss of active material mass for long life dependability"
+      ],
+      "item3": [
+        "Micro Fiber",
+        "Micro-fiber is added to increase the durability of active mass, providing stable and prolonged supply of power."
+      ],
+      "item4": [
+        "SMF Advanced Long Life",
+        "Control Technology",
+        "PET Tissue",
+        "Advanced Sealed Double Lid",
+        "The electrolyte-retrieving cover structure minimizes electrolyte loss even under prolonged use or harsh environments"
+      ],
+      "item5": [
+        "Advanced Sealed Double Lid",
+        "The electrolyte-retrieving cover structure minimizes electrolyte loss even under prolonged use or harsh environments"
+      ],
+      "item6": [
+        "SMF Advanced Long Life",
+        "Control Technology",
+        "PET Tissue",
+        "Flame Arrestor",
+        "Explosion-containment filter technology blocks the inflow of heat from the outside."
+      ]
+    }
+  },
+  "battery_details_page": {
+    "title": "Sealed Maintenance Free Battery (SMF) Technology",
+    "p1": "BX Battery with the Advanced Maintenance Free Technology features a dynamic driving in any climatic condition of all four seasons.",
+    "p2": "It is a standard battery with stable capacity, quick recharge, vibration resistance, and powerful starting performance optimized for passenger cars and other driving conditions.",
+    "item1": [
+      "Flame Arrestor",
+      "Blocks risk factors from heat from the outside"
+    ],
+    "item2": [
+      "Stand-Alone Low-Pressure Safety Valve",
+      "Redirects the gas generated in the product into the electrolyte via high pressure and releases it to outside, in case of fire within the product"
+    ],
+    "item3": [
+      "Handle",
+      "Detachable handle for the user’s convenience"
+    ],
+    "item4": [
+      "Highly-Modulus Container",
+      "Application of highly-modulus container with thermal resistance and impact resistance (jointly developed with SK Central Research Center) Adopted special gridded design to prevent damages to storage battery due to impact and expansion"
+    ],
+    "item5": [
+      "Plates",
+      "Korea’s first stamped grid High-Sn specially alloy Blending technology for high-density active mass"
+    ],
+    "item6": [
+      "AGM Separator",
+      "Absorbs electrolytes to activate the motion of electric ions on the polar plates"
+    ],
+    "li_title": "General Features",
+    "li1": "Absorbent Glass Mat (AGM) technology for efficient gas recombination of up to 99% and freedom from electrolyte maintenance or water adding.",
+    "li2": "Can be mounted in any orientation",
+    "li3": "Computer designed lead, calcium tin alloy grid for high power density.",
+    "li4": "Long service life, float or cyclic applications",
+    "li5": "Maintenance-free operation.",
+    "li6": "Low self discharge."
+  },
+  "car_battery_page": {
+    "VOLTA": {
+      "brand": "VOLTA brand",
+      "items": [
+        {
+          "image": "assets/media/img/battry-volta-1.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        },
+        {
+          "image": "assets/media/img/battry-volta-2.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        },
+        {
+          "image": "assets/media/img/battry-volta-3.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        },
+        {
+          "image": "assets/media/img/battry-volta-4.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        },
+        {
+          "image": "assets/media/img/battry-volta-5.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        },
+        {
+          "image": "assets/media/img/battry-volta-6.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        },
+        {
+          "image": "assets/media/img/battry-volta-7.png",
+          "title": "TITLE",
+          "model": "550500055",
+          "capacity": "50 Ah",
+          "cca": "550 A",
+          "width": "175 mm",
+          "length": "207 mm",
+          "height": "190 mm",
+          "short_code": "N50",
+          "ir_code": "079EFB",
+          "desc": "Remember: Always replace the AGM battery with an AGM to ensure safety systems and convenience features work. Our batteries should only be installed by a professional workshop.",
+          "_id": "550500055",
+          "_slug": "55050005511"
+        }
+      ]
+    }
+  },
+  "guide_page": {
+    "title": "Battery replacement steps",
+    "p1": "Replace the battery according to the safety precautions and exactly according to the following steps. During installation, avoid separating the equipment and tools that connect the poles to each other.",
+    "li1": "Turn off the engine and remove the switch. Do not put the battery near fire",
+    "li2": "First, disconnect the negative pole cable from the battery and then disconnect the positive pole cable.",
+    "li3": "Open the battery holder and take out the old battery",
+    "li4": "Place the new battery in the correct direction and tighten the retaining clip.",
+    "li5": "First, connect the positive pole cable and then the negative pole cable to the new battery and tighten the fasteners completely.",
+    "img_title": "Safety signs :"
+  },
+  "slider_battery_components": {
+    "model": "Model",
+    "capacity": "Capacity",
+    "CCA": "CCA",
+    "width": "Width",
+    "length": "Length",
+    "height": "Height",
+    "short_code": "Short code",
+    "code": "Code"
+  },
+  "footer": {
+    "desc": "Nirogostaran Khorasan Group of Factories started working in 2000. In January 2015, the shares of Ahya Khorasan and Iran Khodro were bought by Mr. Mohammad Reza Fallah Ziyarani. This company is the first manufacturer of calcium shielded batteries in Iran and currently, with the production of 80 million amp hours of starting, storage, industrial and backup batteries per year, it is the main supplier of batteries needed by automobile companies.",
+    "links": {
+      "about": "About us",
+      "contact": "Contact us",
+      "installation_guide": "Installation guide",
+      "policy": "Policy"
+    },
+    "address": {
+      "title": "Factory address:",
+      "desc": "Khorasan Razavi - Mashhad - 17 km of Kalat Road - after the cement tee near the intersection of Mashhad North Bypass and Kalat Road",
+      "phone": "Phone",
+      "factory_sale": "Factory sale"
+    },
+    "copyright": "Copyright © 2022 ngkh.ir"
+  }
+}

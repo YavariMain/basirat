@@ -1,0 +1,3 @@
+<template>
+  <iran-map />
+</template>
