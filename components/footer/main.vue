@@ -25,11 +25,6 @@
         <ul
           class="text-sm flex flex-col justify-center lg:items-center gap-2 footer-menu"
         >
-          <li>
-            <nuxt-link :to="localePath('/about')">{{
-              $t("footer.links.about")
-            }}</nuxt-link>
-          </li>
           <li v-if="$i18n.locale == 'fa'">
             <a href="http://sub.ngkh.ir/contact-us">{{
               $t("footer.links.contact")
@@ -39,19 +34,6 @@
             <a href="http://sub.ngkh.ir/contact-us-en">{{
               $t("footer.links.contact")
             }}</a>
-          </li>
-          <li>
-            <nuxt-link :to="localePath('/guide')">{{
-              $t("footer.links.installation_guide")
-            }}</nuxt-link>
-          </li>
-          <li v-if="$i18n.locale == 'fa'">
-            <a href="http://sub.ngkh.ir">استخدام</a>
-          </li>
-          <li>
-            <nuxt-link :to="localePath('/policy')">{{
-              $t("footer.links.policy")
-            }}</nuxt-link>
           </li>
         </ul>
       </div>

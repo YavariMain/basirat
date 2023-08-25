@@ -4,9 +4,8 @@
     <!-- slider -->
     <div
       v-swiper="swiperOptionBanners"
-      class="w-full ml-auto relative"
-      style="padding: 3rem 0 3rem 0"
-      :loadtheme="false"
+      class="w-full ml-auto relative mt-16 lg:mt-0"
+      style="padding: 0 0 5rem 0"
     >
       <div class="swiper-wrapper">
         <!--  -->
@@ -110,7 +109,6 @@
     opacity: 0;
   }
   .swiper-slide-active {
-    background: red;
     ._subject {
       visibility: visible;
       opacity: 1;
@@ -138,14 +136,14 @@ export default {
         coverflowEffect: {
           rotate: 50,
           stretch: 0,
-          depth: 100,
+          depth: 140,
           modifier: 1,
           slideShadows: true,
         },
-        autoplay: {
-          delay: 3000,
-          disableOnInteraction: false,
-        },
+        // autoplay: {
+        //   delay: 3000,
+        //   disableOnInteraction: false,
+        // },
         navigation: {
           nextEl: ".swiper-button-next",
           prevEl: ".swiper-button-prev",
